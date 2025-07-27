@@ -3,7 +3,7 @@ A Hiring Assistant for Candidate Screening.
 ## Setup
 
 1. **Install dependencies**
-   pip install -r requirements.txt
+   - pip install -r requirements.txt
 
 2. **Get Groq API key**
    - Visit [console.groq.com](https://console.groq.com)
@@ -11,7 +11,7 @@ A Hiring Assistant for Candidate Screening.
    - Create API key
 
 3. **Create .env file**
-   GROQ_API_KEY=your_key_here
+   - GROQ_API_KEY=your_key_here
 
 4. **Run the app**
    streamlit run app.py
